@@ -1,0 +1,26 @@
+
+
+.canasta {
+  min-width: 500px;
+  max-width: 350px;
+  border-left: 1px solid #ececec;
+  text-align: left;
+  padding: 50px 0 0 0;
+  background-color: #efefef;
+  position: fixed;
+  right: -500px;
+  top: 0;
+  bottom: 0;
+  transition: .3s;
+}
+
+.canasta.on {
+  right: 0;
+}
+
+.boton-canasta {
+  right: 10px;
+  top: 20px;
+  z-index: 2;
+  cursor: pointer;
+}

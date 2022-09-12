@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Acelga",
+        "imagen": "images/Acelga.jpg",
+        "precio": "1000",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Zanahoria",
+        "imagen": "images/zanahoria.jpg",
+        "precio": "1500",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Espinaca",
+        "imagen": "images/Espinaca.jpg",
+        "precio": "2000",
+        "cantidad": 1
+    }
+   ]
